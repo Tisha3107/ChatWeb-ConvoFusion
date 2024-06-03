@@ -1,0 +1,23 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Tisha Verma",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icon": "^3.2.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.2",
+    "socket.io": "^4.7.5"
+  }
+}
