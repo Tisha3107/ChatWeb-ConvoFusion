@@ -18,6 +18,8 @@ Screenshots :
 
 ![image](https://github.com/Tisha3107/Convo-Fusion-Chat-App/assets/100868235/20e60ac6-a30b-46dd-9509-0ed096a9498b)
 
+![image](https://github.com/Tisha3107/Convo-Fusion-Chat-App/assets/100868235/8211c363-5d90-45e4-be17-2da6de2517f5)
+
 ![image](https://github.com/Tisha3107/Convo-Fusion-Chat-App/assets/100868235/6ae2333b-d409-4632-b594-fc80107dadba)
 
 ![image](https://github.com/Tisha3107/Convo-Fusion-Chat-App/assets/100868235/f4d3c0bb-64ca-48af-9936-e560ed58d2b7)
