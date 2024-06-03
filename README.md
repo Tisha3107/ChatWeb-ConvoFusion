@@ -1,3 +1,14 @@
+Convo-Fusion is a Full Stack Chatting App. 
+Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+
+**Tech Stack**
+-> Client: React JS
+
+-> Server: Node JS, Express JS
+
+-> Database: Mongo DB
+--------------------------------------------------------------------------------
+
 Screenshots :
 
 ![image](https://github.com/Tisha3107/Convo-Fusion-Chat-App/assets/100868235/9afd8eec-5c16-4437-b6db-a93f0e53ef1c)
